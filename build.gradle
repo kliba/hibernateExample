@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.matrtiellabs.utama.cartdb.kliba'
+group 'com.matrtiellabs.utama'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
