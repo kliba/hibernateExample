@@ -1,6 +1,6 @@
 --SETTINGS
 --This table will contain only one row, that contains the settings for the system.
-INSERT INTO `SETTING`(`vat`, `weightLimit`, `owPenaltyPerKG`) VALUES (27,10,200);
+INSERT INTO `SETTINGS`(`vat`, `weightLimit`, `owPenaltyPerKG`) VALUES (27,10,200);
 
 --ITEM
 --Contains items contained in a cart.
